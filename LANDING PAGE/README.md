@@ -1,4 +1,4 @@
-## Portfolio
+## Fashion Landing Page
 
-- **Link:** [Portfolio](https://ashishverma4822.github.io/portFolio/)
-- **Description:** This is a portfolio website that introduces myself and showcases my skills, projects, and contact information.
+- **Link:** [Fashion Landing Page](https://fashion-landing-page-01.netlify.app/)
+- **Description:** This project is a landing page for a fashion website. It showcases different sections like product highlights, features, and a contact form.
